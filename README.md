@@ -9,6 +9,8 @@ For learning Windows programming.
 - The specialized keyword in Windows Operation System - __stdcall/__cdecl/_clrcall/__fastcall/__thiscall/__vectorcall
 - Conception - Kernel Object
 - DLL And Hook Tech in Windows OS
+- Microsoft Platform SDK (Software Development Kit) - for VC # This importance, you must treat .h & .lib as the SDK of Windows OS development.
+- Windows system programming [reference](https://msdn.microsoft.com/zh-cn)
 
 ### The shortcuts in Visual Studio
 
