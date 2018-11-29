@@ -1,6 +1,19 @@
 # jwin
 For learning Windows programming.
 
+### windows program learning steps
+
+---
+
+- basic win32 windows invoking API framework
+- learn to use compile resource by using resource script(provided by VC++6.0)
+- learn how to use GDI to design UI components
+- learn the basic MFC framework # not very important
+- basic operation # (file operation and dll, hook)
+- winsock programming # the basic processes
+- kernel service programming and system call api design # very important
+- design of opengl program # be associated with game programming
+
 ### The Key Of Win32 Program
 
 ---
