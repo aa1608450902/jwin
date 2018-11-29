@@ -1,7 +1,7 @@
 # jwin
 For learning Windows programming.
 
-### Windows program learning steps
+### Windows Program Learning Steps
 
 ---
 
@@ -77,7 +77,7 @@ For learning Windows programming.
 - Microsoft Platform SDK (Software Development Kit) - for VC # This importance, you must treat .h & .lib as the SDK of Windows OS development.
 - Windows system programming [reference](https://msdn.microsoft.com/zh-cn)
 
-### The shortcuts in Visual Studio
+### The Shortcuts In Visual Studio
 
 ---
 
