@@ -1,7 +1,7 @@
 # jwin
 For learning Windows programming.
 
-### windows program learning steps
+### Windows program learning steps
 
 ---
 
